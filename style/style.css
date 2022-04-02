@@ -8,6 +8,10 @@
     text-decoration: none;
 }
 
+html, body {
+    scroll-behavior: smooth;
+}
+
 :root {
     --CB: 'Comfortaa-Bold';
     --CR: 'Comfortaa-Regular';
